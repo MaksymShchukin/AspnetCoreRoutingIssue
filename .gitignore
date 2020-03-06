@@ -1,0 +1,9 @@
+*/.vs/*
+**/bin/**/*
+**/obj/**/*
+*.csproj.user
+**/.config/dotnet-tools.json
+*.orig
+Deploy/**/buildartifacts/**/*
+UpgradeLog.htm
+ConfigTransformationTool.log
